@@ -438,7 +438,7 @@ Custom DeepCNN (68.99%) pretrained ResNet18-ს (64.06%) სჯობს. ძი
 - `val/loss`, `val/accuracy`
 - `learning_rate`
 
-**სწავლების ბოლოს:**
+**ტრენინგის ბოლოს:**
 - `test/accuracy`
 - `best_val_accuracy`
 
