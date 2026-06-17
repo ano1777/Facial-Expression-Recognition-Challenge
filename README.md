@@ -2,8 +2,8 @@
 
 **Kaggle Competition:** [Challenges in Representation Learning: Facial Expression Recognition Challenge](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge)
 **WandB Project:** [ყველა ექსპერიმენტის ნახვა](https://wandb.ai/akave23-free-university-of-tbilisi-/Facial-Expression-Recognition-Challenge)
-**WandB Report:** [სრული ანალიზი](https://wandb.ai/akave23-free-university-of-tbilisi-/Facial-Expression-Recognition-Challenge/reports)
-
+**WandB Report:** [[სრული ანალიზი](https://wandb.ai/akave23-free-university-of-tbilisi-/Facial-Expression-Recognition-Challenge/reports)
+](https://wandb.ai/akave23-free-university-of-tbilisi-/Facial-Expression-Recognition-Challenge/reports/---VmlldzoxNzI1ODExNg)
 ---
 
 ## პროექტის აღწერა
