@@ -394,13 +394,13 @@ ImageNet-ზე პრეტრენინგებული მოდელე
 |---|-------------|------------|-----|----|--------|-------|-----|-----|------|---------|
 | 1 | exp1_tinynet_baseline | TinyNet | Adam | 1e-3 | 30 | 64 | 50.63% | 49.60% | **Underfitting** |
 | 2 | exp2_smallcnn_no_dropout | SmallCNN d=0 | Adam | 1e-3 | 50 | 64 | 60.24% | 60.32% | **Overfitting** |
-| 3 | exp3_smallcnn_regularised | SmallCNN d=0.4 | Adam | 1e-3 | 50 | 64 | 64.17% | 65.37% | Regularized |
-| 4 | exp4_mediumcnn_adam | MediumCNN | Adam | 1e-3 | 60 | 64 | 66.51% | 69.41% | Balanced |
+| 3 | exp3_smallcnn_regularised | SmallCNN d=0.4 | Adam | 1e-3 | 50 | 64 | 64.17% | 65.37% |  |
+| 4 | exp4_mediumcnn_adam | MediumCNN | Adam | 1e-3 | 60 | 64 | 66.51% | 69.41% |  |
 | 5 | exp5_mediumcnn_sgd | MediumCNN | SGD | 1e-2 | 60 | 64 | 63.39% | 66.09% | Adam > SGD |
 | 6 | exp6_mediumcnn_highLR | MediumCNN | Adam | 1e-2 | 60 | 64 | 52.66% | 53.44% | LR ძალიან მაღალი |
-| 7 | **exp7_deepcnn_residual** | DeepCNN | AdamW | 1e-3 | 70 | 32 | **68.99%** | **69.63%** | **საუკეთესო** |
-| 8 | exp8_resnet18_frozen | ResNet18 frozen | Adam | 1e-3 | 20 | 32 | 57.15% | 58.21% | Transfer შეზღუდული |
-| 9 | exp9_resnet18_finetune | ResNet18 full | AdamW | 1e-4 | 50 | 32 | 64.06% | 63.81% | მოულოდნელად ნაკლები |
+| 7 | **exp7_deepcnn_residual** | DeepCNN | AdamW | 1e-3 | 70 | 32 | **68.99%** | **69.63%** | საუკეთესო |
+| 8 | exp8_resnet18_frozen | ResNet18 frozen | Adam | 1e-3 | 20 | 32 | 57.15% | 58.21% | არაეფექტური |
+| 9 | exp9_resnet18_finetune | ResNet18 full | AdamW | 1e-4 | 50 | 32 | 64.06% | 63.81% | ნაკლებად ეფექტური |
 
 ---
 
