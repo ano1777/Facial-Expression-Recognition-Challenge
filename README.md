@@ -1,8 +1,6 @@
-# Facial Expression Recognition Challenge — FER2013
+# Challenges in Representation Learning: Facial Expression Recognition Challenge
 
-**Kaggle Competition:** [Challenges in Representation Learning: Facial Expression Recognition Challenge](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge) 
-
-**WandB Project:** [ყველა ექსპერიმენტის ნახვა](https://wandb.ai/akave23-free-university-of-tbilisi-/Facial-Expression-Recognition-Challenge)
+**WandB Project:** (https://wandb.ai/akave23-free-university-of-tbilisi-/Facial-Expression-Recognition-Challenge)
 
 **WandB Report:** https://wandb.ai/akave23-free-university-of-tbilisi-/Facial-Expression-Recognition-Challenge/reports/---VmlldzoxNzI1ODExNg
 ---
